@@ -1,4 +1,4 @@
-Uma simple aplicação que simula um Instagran Para Gatos
+Uma simples aplicação que simula um Instagran para Gatos
 
 Permite dar quantos likes quiser no seu gato preferido.
 
